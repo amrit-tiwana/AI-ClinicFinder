@@ -1,3 +1,5 @@
 # AI-ClinicFinder
 
 ## Clinic
+
+### Clinic
